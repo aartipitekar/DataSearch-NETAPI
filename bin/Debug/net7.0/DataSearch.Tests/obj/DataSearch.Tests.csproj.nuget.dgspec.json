@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.Tests/DataSearch.Tests.csproj": {}
+    "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.Tests\\DataSearch.Tests.csproj": {}
   },
   "projects": {
-    "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.csproj": {
+    "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.csproj",
+        "projectUniqueName": "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.csproj",
         "projectName": "DataSearch",
-        "projectPath": "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.csproj",
-        "packagesPath": "/Users/hackgod/.nuget/packages/",
-        "outputPath": "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/obj/",
+        "projectPath": "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.csproj",
+        "packagesPath": "C:\\Users\\44744\\.nuget\\packages\\",
+        "outputPath": "C:\\Aarti\\DataSearch\\DataSearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hackgod/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\44744\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.13, )"
@@ -78,34 +84,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.Tests/DataSearch.Tests.csproj": {
+    "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.Tests\\DataSearch.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.Tests/DataSearch.Tests.csproj",
+        "projectUniqueName": "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.Tests\\DataSearch.Tests.csproj",
         "projectName": "DataSearch.Tests",
-        "projectPath": "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.Tests/DataSearch.Tests.csproj",
-        "packagesPath": "/Users/hackgod/.nuget/packages/",
-        "outputPath": "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.Tests/obj/",
+        "projectPath": "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.Tests\\DataSearch.Tests.csproj",
+        "packagesPath": "C:\\Users\\44744\\.nuget\\packages\\",
+        "outputPath": "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hackgod/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\44744\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.csproj": {
-                "projectPath": "/Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.csproj"
+              "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.csproj": {
+                "projectPath": "C:\\Aarti\\DataSearch\\DataSearch\\DataSearch.csproj"
               }
             }
           }
@@ -161,7 +169,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

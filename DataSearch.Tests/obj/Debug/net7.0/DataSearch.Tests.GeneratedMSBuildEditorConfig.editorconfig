@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataSearch.Tests
-build_property.ProjectDir = /Users/hackgod/Desktop/HackGod/Projects/dotnet/DataSearch/DataSearch.Tests/
+build_property.ProjectDir = C:\Aarti\DataSearch\DataSearch\DataSearch.Tests\
